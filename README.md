@@ -44,6 +44,17 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 
 ---
 
+## 🗄️ Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM%20DB2-051D5D?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+
 ## 📜 Certificações
 
 <p align="center">
