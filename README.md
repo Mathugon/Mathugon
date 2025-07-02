@@ -11,7 +11,7 @@
 ## Sobre mim
 
 Atualmente focado na trilha **Azure** com ênfase em **DevOps**  
-Também estudo **Desenvolvimento Web** (Front-end & Back-end),  
+Também estudo **Desenvolvimento Web** e **Desenvolvimento de Software** (Tanto Front-end quanto Back-end),  
 e me interesso por **Ciência de Dados** e **Inteligência Artificial**.
 
 Experiência com bancos de dados relacionais:  
