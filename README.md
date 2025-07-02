@@ -46,7 +46,9 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 
 ## 📜 Certificações
 
-![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue?logo=microsoft&logoColor=white&style=flat-square)
+<p align="center">
+  <img src="https://github.com/Mathugon/Mathugon/blob/main/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="200"/>
+</p>
 
 ---
 
