@@ -1,27 +1,27 @@
-<h1 align="center">👋 Prazer, meu nome é Matheus Gontijo</h1>
+<h1 align="center"> Prazer, meu nome é Matheus Gontijo</h1>
 
 <p align="center">
-  💼 Suporte Técnico na <strong>Hardprot</strong> desde 2023!<br>
-  🎓 Certificado <strong>AZ-900 (Microsoft Azure Fundamentals)</strong> <br>
-  📍 São Paulo - Brasil | 18 anos
+  Suporte Técnico na <strong>Hardprot</strong> desde 2023!<br>
+  Certificado <strong>AZ-900 (Microsoft Azure Fundamentals)</strong> <br>
+  São Paulo - Brasil | 18 anos
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-🎯 Atualmente focado na trilha **Azure** com ênfase em **DevOps**  
-📚 Também estudo **Desenvolvimento Web** (Front-end & Back-end),  
+Atualmente focado na trilha **Azure** com ênfase em **DevOps**  
+Também estudo **Desenvolvimento Web** (Front-end & Back-end),  
 e me interesso por **Ciência de Dados** e **Inteligência Artificial**.
 
-🧠 Experiência com bancos de dados relacionais:  
+Experiência com bancos de dados relacionais:  
 PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 
-### 💻 Linguagens & Desenvolvimento
+### Linguagens & Desenvolvimento
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,7 +32,7 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & Ferramentas
+### DevOps & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -44,7 +44,7 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -55,7 +55,7 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 </p>
 
 
-## 📜 Certificações
+## Certificações
 
 <p align="center">
   <img src="https://github.com/Mathugon/Mathugon/blob/main/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="120"/>
@@ -63,7 +63,7 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mgontijo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mgontijo/)  
 [![Email](https://img.shields.io/badge/Gmail-matheus.silva.gontijo@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:matheus.silva.gontijo@gmail.com)
