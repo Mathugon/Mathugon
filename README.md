@@ -59,6 +59,7 @@ PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
 
 <p align="center">
   <img src="https://github.com/Mathugon/Mathugon/blob/main/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="120"/>
+  <img src="https://github.com/Mathugon/Mathugon/blob/main/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="120"/>
 </p>
 
 ---
