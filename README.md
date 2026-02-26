@@ -1,7 +1,7 @@
 <h1 align="center"> Prazer, meu nome é Matheus Gontijo</h1>
 
 <p align="center">
-  Suporte Técnico na <strong>Hardprot</strong> desde 2023!<br>
+  Analista TI na <strong>Hardprot</strong> desde 2023!<br>
   Certificado <strong>AZ-900 (Microsoft Azure Fundamentals)</strong> <br>
   Certificado <strong>AI-900 (Microsoft Azure AI Fundamentals)</strong> <br>
   São Paulo - Brasil | 19 anos
