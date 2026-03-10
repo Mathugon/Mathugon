@@ -1,7 +1,7 @@
 <h1 align="center"> Prazer, meu nome é Matheus Gontijo</h1>
 
 <p align="center">
-  Analista TI na <strong>Hardprot</strong> desde 2023!<br>
+  Analista de TI na <strong>Hardprot</strong> desde 2023!<br>
   Certificado <strong>AZ-900 (Microsoft Azure Fundamentals)</strong> <br>
   Certificado <strong>AI-900 (Microsoft Azure AI Fundamentals)</strong> <br>
   São Paulo - Brasil | 19 anos
@@ -11,12 +11,8 @@
 
 ## Sobre mim
 
-Atualmente focado na trilha **Azure** com ênfase em **DevOps**  
-Também estudo **Desenvolvimento Web** e **Desenvolvimento de Software** (Tanto Front-end quanto Back-end),  
-e me interesso por **Ciência de Dados** e **Inteligência Artificial**.
-
-Experiência com bancos de dados relacionais:  
-PostgreSQL • SQL Server • MySQL • IBM DB2 • Oracle
+Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP e trabalhando integralmente na Hardprot desde 2023.
+Meus estudos têm foco total em **Desenvolvimento de Software (desenvolvimento full-stack)**, **Inteligência Artificial** e **DevOps**.
 
 ---
 
