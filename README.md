@@ -4,7 +4,7 @@
   Analista de TI na <strong>Hardprot</strong> desde 2023!<br>
   Certificado <strong>AZ-900 (Microsoft Azure Fundamentals)</strong> <br>
   Certificado <strong>AI-900 (Microsoft Azure AI Fundamentals)</strong> <br>
-  São Paulo - Brasil | 19 anos
+  São Paulo - Brasil | 20 anos
 </p>
 
 ---
